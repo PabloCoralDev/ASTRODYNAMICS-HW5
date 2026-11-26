@@ -1,0 +1,10 @@
+Hohmann total/vc1: 0.4487
+Bi-parabolic total/vc1: 0.6213
+Bi-elliptic (S=2) total/vc1: 0.5327
+Bi-elliptic (S=5) total/vc1: 0.5857
+Bi-elliptic (S=10) total/vc1: 0.6036
+Bi-elliptic (S=11) total/vc1: 0.6052
+Bi-elliptic (S=12) total/vc1: 0.6065
+Bi-elliptic (S=15) total/vc1: 0.6095
+
+Lowest total impulse: Hohmann (0.4487 vc1)

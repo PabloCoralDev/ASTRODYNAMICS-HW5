@@ -1,0 +1,7 @@
+(a) Hohmann = bi-parabolic at R = 11.9388
+(b) S =  2: Hohmann = bi-elliptic at R = 13.8696
+(b) S =  5: Hohmann = bi-elliptic at R = 12.7455
+(b) S = 10: Hohmann = bi-elliptic at R = 12.3488
+(b) S = 11: Hohmann = bi-elliptic at R = 12.3121
+(b) S = 12: Hohmann = bi-elliptic at R = 12.2815
+(b) S = 15: Hohmann = bi-elliptic at R = 12.2137

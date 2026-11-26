@@ -1,0 +1,5 @@
+r1 = 6678.000 km, r2 = 42163.603 km, a = 24420.801 km
+(a) dv1 = 2.4258 km/s, dv2 = 2.5795 km/s
+(b) total dV = 5.0053 km/s
+(c) time of flight = 5.2750 hours
+(d) m0/mf = 2.1662 (impulse 1), 2.2750 (impulse 2)

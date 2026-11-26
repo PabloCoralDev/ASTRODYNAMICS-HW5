@@ -1,0 +1,6 @@
+(a) line of intersection (unit vector): (1.0, 0.0, 0.0)
+(b) r1 = (6728.0, 0.0, 0.0) km, r2 = (-26558.0, 0.0, 0.0) km
+(c) dv1 = 2.0261 km/s, dv2 = 2.0176 km/s, total dV = 4.0437 km/s
+(d) time of flight = 2.9677 hours
+(e) eccentricity of transfer orbit = 0.595746
+(f) theta = 27.0000 deg
